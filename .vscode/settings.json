@@ -1,0 +1,7 @@
+{
+  "editor.formatOnPaste": true,
+  "editor.wordWrap": "on",
+  "html.format.wrapAttributes": "force-aligned",
+  "emmet.showSuggestionsAsSnippets": true,
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyParenthesis": true
+}
